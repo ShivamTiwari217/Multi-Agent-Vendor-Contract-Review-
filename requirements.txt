@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+crewai>=0.130.0
+chromadb
+streamlit>=1.35
+pypdf
+python-dotenv
+pandas
+pydantic>=2
+streamlit
+crewai
+litellm
+python-dotenv
+pydantic
+pypdf2
+google-genai

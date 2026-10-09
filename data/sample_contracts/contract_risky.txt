@@ -1,0 +1,12 @@
+MASTER AGREEMENT between Acme Corp and QuickScore AI Labs Inc.
+
+1. Services. QuickScore provides an AI-based applicant scoring service. QuickScore will process applicant personal data supplied by Acme.
+2. Fees. Annual fee is INR 2,500,000. Term is 36 months.
+3. Payment. Invoices are payable within 30 days.
+4. Renewal. This agreement automatically renews for 12-month terms unless Acme gives notice of non-renewal at least 120 days before the end of the then-current term.
+5. Termination. Neither party may terminate for convenience. If Acme terminates early for any reason it must pay 60% of all remaining fees.
+6. Liability. QuickScore's aggregate liability shall not exceed the fees paid by Acme in the three months preceding the claim.
+7. Service levels. QuickScore will use commercially reasonable efforts to keep the Service available.
+8. Security. QuickScore applies industry standard security measures.
+9. Data use. QuickScore may use Acme data and applicant data to improve and train its models and products.
+10. Governing law. Laws of Delaware, USA, with exclusive jurisdiction of the Delaware courts.

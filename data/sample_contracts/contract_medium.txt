@@ -1,0 +1,13 @@
+SOFTWARE SUBSCRIPTION AGREEMENT between Acme Corp and Brightline HR Software Ltd
+
+1. Services. Brightline provides a cloud HR management platform.
+2. Fees. Annual fee is INR 800,000. Initial term is 24 months.
+3. Payment. Invoices are due within 20 days of the invoice date.
+4. Renewal. The agreement auto-renews for 12-month terms unless Acme gives written notice of non-renewal at least 90 days before expiry.
+5. Termination. Acme may terminate for convenience on 30 days written notice, subject to an early termination fee of 20% of remaining fees.
+6. Liability. Brightline's total liability is limited to fees paid in the 12 months before the claim (1x annual fees).
+7. Service levels. Brightline commits to 99.5% monthly uptime, with service credits for any shortfall.
+8. Data protection. Brightline processes employee personal data under the attached Data Processing Agreement. Breach notification within 72 hours. Data is deleted within 30 days after termination.
+9. Security. Brightline holds a SOC 2 Type II report.
+10. Data ownership. Acme owns all of its data. Brightline will not use Acme data to train models.
+11. Governing law. This agreement is governed by English law, and the courts of London have exclusive jurisdiction.
